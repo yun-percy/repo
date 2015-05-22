@@ -11,7 +11,7 @@
 
 现在各个repo都开始将公共的代码直接指向了google的源，来避免每次都需要去同步google的源代码，但是，这就苦了我们这些墙内人的码农了，简直卧槽了得。
 
-其实只需要将 .repo/manifests里面的
+其实只需要将 .repo/manifest.xml里面的
 
         <remote name="aosp"
 
